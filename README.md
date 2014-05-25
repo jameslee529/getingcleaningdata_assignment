@@ -4,7 +4,7 @@ README.md
 * Clone this repository in your workspace
 * Change current directory into workspace
 * Download the [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) and extract it into your workspace
-* Run Rscript run_analysis.R. It may take some minutes.It is a time consuming operation.
+* Run Rscript run_analysis.R. It is a time consuming operation.
 * The tidy dataset should be created in the current directory as tidyData.txt
 
 ## Assumption
